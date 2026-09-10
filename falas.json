@@ -1,0 +1,1207 @@
+[
+ {
+  "id": "so_1xwcaaz",
+  "texto": "O Som que Abre. Dez folhas para descobrir o primeiro som das palavras e a letra que escreve esse som. Escreva o seu nome ali embaixo e toque em Começar.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1kyeog6",
+  "texto": "Bola, com bê. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_lw1f2v",
+  "texto": "Casa, com cê. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_smiqrl",
+  "texto": "Faca, com éfe. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2iwcxi",
+  "texto": "Lata, com éle. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_n44l66",
+  "texto": "Macaco, com ême. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1g1x8wu",
+  "texto": "Pato, com pê. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_xdl9xr",
+  "texto": "Sapo, com ésse. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_m86pkm",
+  "texto": "Tomate, com tê. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_eae1tz",
+  "texto": "Vaca, com vê. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_130kyb4",
+  "texto": "Zebra, com zê. Foi para o seu mural!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ognwpe",
+  "texto": "Isso! Faca começa com o som fff.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_13av8kl",
+  "texto": "Isso! Lata começa com o som lll.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_fwdtb2",
+  "texto": "Isso! Macaco começa com o som mmm.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_15snv9c",
+  "texto": "Isso! Navio começa com o som nnn.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1jayln3",
+  "texto": "Isso! Sapo começa com o som sss.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1hv76fm",
+  "texto": "Isso! Vaca começa com o som vvv.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_14ffefh",
+  "texto": "Isso! Xícara começa com o som xxx.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1jnec9x",
+  "texto": "Isso! Zebra começa com o som zzz.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1tm8pd1",
+  "texto": "Muito bem! Faca e vaca começam com sons diferentes.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_cwzx2t",
+  "texto": "Isso! Foca e foguete começam as duas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_zb0xgu",
+  "texto": "Isso! Lata e luneta começam as duas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1s9plv6",
+  "texto": "Isso! Macaco e mala começam as duas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_7df33p",
+  "texto": "Isso! Mel e menina começam as duas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1yuf77p",
+  "texto": "Muito bem! Rato e lata começam com sons diferentes.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1fjfexz",
+  "texto": "Isso! Sapo e sino começam as duas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1sjf3t2",
+  "texto": "Isso! Sorvete e sino começam as duas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_c1fh0w",
+  "texto": "Muito bem! Vaca e sol começam com sons diferentes.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_uxeajn",
+  "texto": "Muito bem! Zebra e sapato começam com sons diferentes.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_10hmkmm",
+  "texto": "Isso! Bola e bolo começam com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_djfg7i",
+  "texto": "Isso! Faca e foca começam com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ait1dc",
+  "texto": "Isso! Lata e lupa começam com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_64s30j",
+  "texto": "Isso! Macaco e mala começam com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1r9dqot",
+  "texto": "Isso! Pato e panela começam com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1f6peid",
+  "texto": "Isso! Sapo e sapato começam com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_r4otnx",
+  "texto": "Isso! Tomate e tesoura começam com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_go0g97",
+  "texto": "Isso! Vaca e vela começam com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1hqluc",
+  "texto": "Isso! bola, boneca, bota começam todas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_d985da",
+  "texto": "Isso! casa, cavalo, coruja começam todas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1hy0889",
+  "texto": "Isso! faca, foca, foguete começam todas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_qd598j",
+  "texto": "Isso! macaco, mala, maçã começam todas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_wu6q2z",
+  "texto": "Isso! pato, pipa, peixe começam todas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1844er2",
+  "texto": "Isso! sapo, sino, sol começam todas com o mesmo som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_12o23c4",
+  "texto": "Muito bem! Abelha começa com a letra á.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_13s6j5a",
+  "texto": "Muito bem! Bola começa com a letra bê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_xhdeyn",
+  "texto": "Muito bem! Casa começa com a letra cê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_18ougva",
+  "texto": "Muito bem! Dado começa com a letra dê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2kpxih",
+  "texto": "Muito bem! Faca começa com a letra éfe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_12jjfzq",
+  "texto": "Muito bem! Gato começa com a letra gê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_w5qxjx",
+  "texto": "Muito bem! Igreja começa com a letra i.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1uid82m",
+  "texto": "Muito bem! Lata começa com a letra éle.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_czi2o6",
+  "texto": "Muito bem! Macaco começa com a letra ême.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1h3o4ig",
+  "texto": "Muito bem! Navio começa com a letra êne.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_187qr5v",
+  "texto": "Muito bem! Ovo começa com a letra ó.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_8ppoty",
+  "texto": "Muito bem! Pato começa com a letra pê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1wt6dif",
+  "texto": "Muito bem! Sapo começa com a letra ésse.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_osfcri",
+  "texto": "Muito bem! Tomate começa com a letra tê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1m4cma9",
+  "texto": "Muito bem! Uva começa com a letra u.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2rtlf3",
+  "texto": "Muito bem! Vaca começa com a letra vê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1w45pxc",
+  "texto": "Muito bem! Xícara começa com a letra xis.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_11io794",
+  "texto": "Muito bem! Zebra começa com a letra zê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1mtfree",
+  "texto": "Boa! Maçã vai na gaveta do ême.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_xch8rg",
+  "texto": "Boa! Macaco vai na gaveta do ême.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_7w0xi7",
+  "texto": "Boa! Mala vai na gaveta do ême.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1ko5a3i",
+  "texto": "Boa! Menina vai na gaveta do ême.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_bhuvlm",
+  "texto": "Boa! Pão vai na gaveta do pê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1jige5o",
+  "texto": "Boa! Pato vai na gaveta do pê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1ukjuv",
+  "texto": "Boa! Peixe vai na gaveta do pê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1hiexgu",
+  "texto": "Boa! Pipa vai na gaveta do pê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1bl0ars",
+  "texto": "Boa! Sapato vai na gaveta do ésse.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_tdxd6l",
+  "texto": "Boa! Sapo vai na gaveta do ésse.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1kttzvv",
+  "texto": "Boa! Sino vai na gaveta do ésse.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1elyhk0",
+  "texto": "Boa! Sol vai na gaveta do ésse.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_8bgmlk",
+  "texto": "Isso! sapo, sino, sol começam com o mesmo som, e bola não.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_v9ly01",
+  "texto": "Isso! faca, foca, foguete começam com o mesmo som, e dado não.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2zxli0",
+  "texto": "Isso! macaco, mala, maçã começam com o mesmo som, e gato não.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1s4pk0a",
+  "texto": "Isso! bola, boneca, bota começam com o mesmo som, e lata não.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1sdxu9i",
+  "texto": "Isso! pato, pipa, peixe começam com o mesmo som, e urso não.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_rccxbq",
+  "texto": "Isso! casa, cavalo, coruja começam com o mesmo som, e vela não.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1nv2wyq",
+  "texto": "Muito bem! Banana começa com bê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_17q9rn0",
+  "texto": "Muito bem! Foguete começa com éfe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1mhgmz2",
+  "texto": "Muito bem! Luneta começa com éle.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_10pgh0v",
+  "texto": "Muito bem! Mel começa com ême.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1u76trh",
+  "texto": "Muito bem! Rato começa com érre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_6vafih",
+  "texto": "Muito bem! Sorvete começa com ésse.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1bl7zg1",
+  "texto": "Muito bem! Tomate começa com tê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1rbf6ob",
+  "texto": "Muito bem! Vela começa com vê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1pik34j",
+  "texto": "Escute de novo, bem devagar: faca... vaca. O comecinho é o mesmo ou não?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_154prtp",
+  "texto": "Escute só o comecinho de cada uma: foca... foguete. São iguais?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_14zhw6e",
+  "texto": "Escute só o comecinho de cada uma: lata... luneta. São iguais?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_hex20q",
+  "texto": "Escute só o comecinho de cada uma: macaco... mala. São iguais?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1ehz8t9",
+  "texto": "Escute só o comecinho de cada uma: mel... menina. São iguais?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_13jtjf7",
+  "texto": "Escute de novo, bem devagar: rato... lata. O comecinho é o mesmo ou não?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1p7dszz",
+  "texto": "Escute só o comecinho de cada uma: sapo... sino. São iguais?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yciii6",
+  "texto": "Escute só o comecinho de cada uma: sorvete... sino. São iguais?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2286x2",
+  "texto": "Escute de novo, bem devagar: vaca... sol. O comecinho é o mesmo ou não?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1e6d1jp",
+  "texto": "Escute de novo, bem devagar: zebra... sapato. O comecinho é o mesmo ou não?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1vyhlgq",
+  "texto": "Fale bola e depois cada uma das três. Guarde só o comecinho de cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_e0ihtb",
+  "texto": "Fale faca e depois cada uma das três. Guarde só o comecinho de cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_5lefjm",
+  "texto": "Fale lata e depois cada uma das três. Guarde só o comecinho de cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_q8g3k8",
+  "texto": "Fale macaco e depois cada uma das três. Guarde só o comecinho de cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_j3j2ao",
+  "texto": "Fale pato e depois cada uma das três. Guarde só o comecinho de cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_k8ck2v",
+  "texto": "Fale sapo e depois cada uma das três. Guarde só o comecinho de cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_9w9x58",
+  "texto": "Fale tomate e depois cada uma das três. Guarde só o comecinho de cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_8twvy7",
+  "texto": "Fale vaca e depois cada uma das três. Guarde só o comecinho de cada uma.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_12jyu1c",
+  "texto": "Compare cada figura com bola, uma por uma. Pode ser mais de uma!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1ghmx6o",
+  "texto": "Compare cada figura com casa, uma por uma. Pode ser mais de uma!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_161q1kl",
+  "texto": "Compare cada figura com faca, uma por uma. Pode ser mais de uma!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1lg2nea",
+  "texto": "Compare cada figura com macaco, uma por uma. Pode ser mais de uma!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1x8s7yy",
+  "texto": "Compare cada figura com pato, uma por uma. Pode ser mais de uma!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_v2chkt",
+  "texto": "Compare cada figura com sapo, uma por uma. Pode ser mais de uma!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_112e9ws",
+  "texto": "Fale a palavra devagar: abelha. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_9cxr67",
+  "texto": "Fale a palavra devagar: bola. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1hbf4nz",
+  "texto": "Fale a palavra devagar: casa. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1ffjh6p",
+  "texto": "Fale a palavra devagar: dado. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1r8f1fu",
+  "texto": "Fale a palavra devagar: faca. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1n6cfte",
+  "texto": "Fale a palavra devagar: gato. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_19fcqil",
+  "texto": "Fale a palavra devagar: igreja. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1eu15hz",
+  "texto": "Fale a palavra devagar: lata. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_mwzwtp",
+  "texto": "Fale a palavra devagar: macaco. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_cy9nu8",
+  "texto": "Fale a palavra devagar: navio. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_12y7o0p",
+  "texto": "Fale a palavra devagar: ovo. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_qkf0zp",
+  "texto": "Fale a palavra devagar: pato. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1axkw02",
+  "texto": "Fale a palavra devagar: sapo. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_8ww1rd",
+  "texto": "Fale a palavra devagar: tomate. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1ljlob1",
+  "texto": "Fale a palavra devagar: uva. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_tklel6",
+  "texto": "Fale a palavra devagar: vaca. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_8qfusr",
+  "texto": "Fale a palavra devagar: xícara. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_uicpsx",
+  "texto": "Fale a palavra devagar: zebra. Agora pense: que letra escreve esse primeiro som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1276thk",
+  "texto": "Escute o comecinho de maçã e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1tp67fm",
+  "texto": "Escute o comecinho de macaco e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1919mn5",
+  "texto": "Escute o comecinho de mala e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1mxe0v4",
+  "texto": "Escute o comecinho de menina e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_lw6l18",
+  "texto": "Escute o comecinho de pão e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_dppowa",
+  "texto": "Escute o comecinho de pato e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1nd96sh",
+  "texto": "Escute o comecinho de peixe e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_sg9sy0",
+  "texto": "Escute o comecinho de pipa e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_mp2660",
+  "texto": "Escute o comecinho de sapato e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1fdio4t",
+  "texto": "Escute o comecinho de sapo e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_8zjssb",
+  "texto": "Escute o comecinho de sino e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1t4tzqo",
+  "texto": "Escute o comecinho de sol e procure a gaveta com a letra desse som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_c4sys4",
+  "texto": "Escute as quatro e guarde só o primeiro som de cada uma. Três são iguais; uma é diferente.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1dq1x6v",
+  "texto": "Fale devagar: banana. Escreva a letra do primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_x1xyyz",
+  "texto": "Fale devagar: foguete. Escreva a letra do primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_7c3xz7",
+  "texto": "Fale devagar: luneta. Escreva a letra do primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ym2g2o",
+  "texto": "Fale devagar: mel. Escreva a letra do primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_19lrix8",
+  "texto": "Fale devagar: rato. Escreva a letra do primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2ov814",
+  "texto": "Fale devagar: sorvete. Escreva a letra do primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1vvzusi",
+  "texto": "Fale devagar: tomate. Escreva a letra do primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1r6r44a",
+  "texto": "Fale devagar: vela. Escreva a letra do primeiro som.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_t4cjna",
+  "texto": "Escreva a letra do começo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1521ruu",
+  "texto": "fff... faca.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2y5spd",
+  "texto": "lll... lata.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_r4sjfu",
+  "texto": "mmm... macaco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_11gprn8",
+  "texto": "nnn... navio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1u1lp5n",
+  "texto": "sss... sapo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_133l0li",
+  "texto": "vvv... vaca.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_l677w9",
+  "texto": "xxx... xícara.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ojaptd",
+  "texto": "zzz... zebra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1j5eno6",
+  "texto": "Você chegou ao fim! Agora você ouve o primeiro som de uma palavra e sabe que letra escreve ele. Olhe o seu mural ali embaixo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1d9s73k",
+  "texto": "Folha pronta! Muito bem.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3hj3e",
+  "texto": "á.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_375gw3",
+  "texto": "bê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_375hoi",
+  "texto": "cê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3758p1",
+  "texto": "dê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3hjaa",
+  "texto": "é.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ygayip",
+  "texto": "éfe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_375kue",
+  "texto": "gê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3hmjm",
+  "texto": "i.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ygate3",
+  "texto": "éle.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ygen6x",
+  "texto": "ême.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ygehey",
+  "texto": "êne.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3hjjs",
+  "texto": "ó.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_375w0h",
+  "texto": "pê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_gnqcn",
+  "texto": "érre.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_gstmv",
+  "texto": "ésse.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_375m51",
+  "texto": "tê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3hmny",
+  "texto": "u.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_375xhz",
+  "texto": "vê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yjd42x",
+  "texto": "xis.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3760nv",
+  "texto": "zê.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_ydhm3o",
+  "texto": "Toque numa figura e depois na letra dela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yj5a5l",
+  "texto": "Não.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_175a16h",
+  "texto": "Caderno novo! As palavras mudaram.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1czy4zx",
+  "texto": "Folha dez: toque nas palavras que você quer no seu mural.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1346j6p",
+  "texto": "Folha um: estique o som do começo. Toque e ouça a palavra com o primeiro som bem esticado. Estique junto com a voz!",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_5fux8m",
+  "texto": "Folha dois: ouça as duas palavras. Elas começam com o mesmo som?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1myvbc6",
+  "texto": "Folha três: qual destas começa com o mesmo som da figura de cima?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1q36ezp",
+  "texto": "Folha quatro: toque em todas as figuras que começam com o mesmo som da primeira. Depois toque em Conferir.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_bmnqyn",
+  "texto": "Folha cinco: este som tem uma letra. Qual é ela?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1fboxdt",
+  "texto": "Folha seis: com que letra começa o nome da figura?",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_k6ms79",
+  "texto": "Folha sete: ponha cada figura na gaveta da letra com que ela começa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_qxwa4m",
+  "texto": "Folha oito: três começam com o mesmo som e uma não. Circule quem não é.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_31ryla",
+  "texto": "Folha nove: ouça a palavra e escreva a letra com que ela começa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2grgq0",
+  "texto": "abelha.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_12umqw8",
+  "texto": "banana.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2wk6a3",
+  "texto": "bola.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_11jv35b",
+  "texto": "boneca.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2wkqfn",
+  "texto": "bota.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2x8g63",
+  "texto": "casa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1lw57lp",
+  "texto": "cavalo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2xckss",
+  "texto": "cone.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_1puf2y3",
+  "texto": "coruja.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2pmm9x",
+  "texto": "dado.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2ts28e",
+  "texto": "faca.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2twvb4",
+  "texto": "foca.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_gaeo84",
+  "texto": "foguete.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2uezfa",
+  "texto": "gato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_xjdjy1",
+  "texto": "igreja.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2vac2b",
+  "texto": "lata.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_bid2ng",
+  "texto": "luneta.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2vtc3n",
+  "texto": "maçã.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_hjre95",
+  "texto": "macaco.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_2vw8zu",
+  "texto": "mala.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yiyo33",
+  "texto": "mel.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_k1id0r",
+  "texto": "menina.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_rgai44",
+  "texto": "navio.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yj3gf1",
+  "texto": "ovo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yja3cn",
+  "texto": "pão.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_33qfk1",
+  "texto": "pato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_vc0jii",
+  "texto": "peixe.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_33woeb",
+  "texto": "pipa.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_37vy6b",
+  "texto": "rato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_181h06r",
+  "texto": "sapato.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_38iifa",
+  "texto": "sapo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_38omz4",
+  "texto": "sino.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yjchmj",
+  "texto": "sol.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_fc74kn",
+  "texto": "sorvete.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_wmnwkw",
+  "texto": "tijolo.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_xxr6ct",
+  "texto": "tomate.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_30iu91",
+  "texto": "trem.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_jtecix",
+  "texto": "tucano.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3171rk",
+  "texto": "urso.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yj4fyh",
+  "texto": "uva.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_352r8e",
+  "texto": "vaca.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_355wr9",
+  "texto": "vela.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_3t4mnj",
+  "texto": "xícara.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_14b1cx1",
+  "texto": "zebra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_180rwjr",
+  "texto": "Quase! Escute de novo e tente outra.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_yjcj4s",
+  "texto": "Sim.",
+  "voz": "pt-BR-AntonioNeural"
+ },
+ {
+  "id": "so_swkns7",
+  "texto": "Narração ligada!",
+  "voz": "pt-BR-AntonioNeural"
+ }
+]
