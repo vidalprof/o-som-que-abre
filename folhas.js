@@ -970,7 +970,7 @@ function fim(){
   var pc = tot ? prim / tot : 0;
   var cheias = pc >= .85 ? 3 : pc >= .6 ? 2 : 1, est = "", ke;
   for(ke = 0; ke < 3; ke++)
-    est += '<img src="img/so_estrela' + (ke < cheias ? "" : "_off") + '.png?v=' + VIMG + '" alt="" draggable="false">';
+    est += '<img src="img/so_selo' + (ke < cheias ? "" : "_off") + '.png?v=' + VIMG + '" alt="" draggable="false">';
   document.getElementById("estrelas").innerHTML = est;
   document.getElementById("estrelas").setAttribute("aria-label", cheias + " de 3 estrelas");
   var bar = document.getElementById("barras"); bar.innerHTML = "";
@@ -998,7 +998,12 @@ function fim(){
     (mq.pc >= 75 ? jaSabe : treinar).push(mq.pc >= 75 ? Oq.ok : Oq.n.toLowerCase());
   }
   var txt = "";
-  if(jaSabe.length) txt = "Você já sabe " + jaSabe.slice(0, 3).join("; ") + ".";
+  /* ⚠️ "Você JÁ ..." e não "Você já SABE ..." (set/2026, achado na leitura da
+     tela de fim). Os textos dos OBJETIVOS estão escritos em terceira pessoa
+     ("junta os dois pedaços", "conta as palmas") — que em português é a MESMA
+     forma de "você". Com o "sabe" no meio saía "Você já sabe junta os dois
+     pedaços", e era a PRIMEIRA frase que a criança lia no fim do caderno. */
+  if(jaSabe.length) txt = "Você já " + jaSabe.slice(0, 3).join("; ") + ".";
   else txt = "Você começou a ouvir o primeiro som das palavras — e ele tem uma letra!";
   if(treinar.length) txt += " Vale treinar mais: " + treinar.slice(0, 2).join(" e ") + ".";
   document.getElementById("resumo").innerHTML =
