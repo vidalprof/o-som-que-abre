@@ -1,0 +1,90 @@
+{
+  "ano": 1,
+  "componente": "Alfabetização e Língua Portuguesa",
+  "rede": "Currículo da Educação Básica do Sistema Municipal de Ensino de Blumenau",
+  "documento": "_curriculo/blumenau.txt",
+  "degrau": 4,
+  "evidencia": [
+    "Jogada do começo ao fim no navegador, item por item, antes de publicar.",
+    "Leiaute medido em 6 tamanhos de tela: nenhuma figura cortada e nenhum alvo de toque menor que 40 px.",
+    "Toda tela é narrada com voz real; as sílabas são recortadas de dentro da palavra gravada, nunca sintetizadas soltas.",
+    "Uma amostra das falas é ouvida por reconhecimento automático de voz e comparada com o texto escrito.",
+    "Contraste do texto medido no pixel real do fundo, não na folha de estilo.",
+    "As habilidades citadas neste dossiê são conferidas, palavra por palavra, contra o currículo da rede."
+  ],
+  "objetivos": [
+    {
+      "objetivo": "Esticar o som do começo",
+      "folhas": [
+        1
+      ],
+      "pratica": "Análise linguística/semiótica (alfabetização)",
+      "objeto": "Construção do sistema alfabético",
+      "habilidade": "HABILIDADE: \"Reconhecer o sistema de escrita alfabética como representação dos sons da fala.\""
+    },
+    {
+      "objetivo": "Julgar: começam igual?",
+      "folhas": [
+        2
+      ],
+      "pratica": "Análise linguística/semiótica (alfabetização)",
+      "objeto": "Construção do sistema alfabético",
+      "habilidade": "HABILIDADE: \"Comparar palavras, identificando semelhanças e diferenças entre sons de sílabas iniciais, mediais e finais.\""
+    },
+    {
+      "objetivo": "Achar quem começa igual",
+      "folhas": [
+        3
+      ],
+      "pratica": "Análise linguística/semiótica (alfabetização)",
+      "objeto": "Construção do sistema alfabético",
+      "habilidade": "HABILIDADE: \"Comparar palavras, identificando semelhanças e diferenças entre sons de sílabas iniciais, mediais e finais.\""
+    },
+    {
+      "objetivo": "Marcar TODAS com o mesmo som",
+      "folhas": [
+        4
+      ],
+      "pratica": "Análise linguística/semiótica (alfabetização)",
+      "objeto": "Construção do sistema alfabético",
+      "habilidade": "HABILIDADE: \"Comparar palavras, identificando semelhanças e diferenças entre sons de sílabas iniciais, mediais e finais.\""
+    },
+    {
+      "objetivo": "O som virou LETRA",
+      "folhas": [
+        5
+      ],
+      "pratica": "Análise linguística/semiótica (alfabetização)",
+      "objeto": "Construção do sistema alfabético e da ortografia",
+      "habilidade": "HABILIDADE: \"Identificar fonemas e sua representação por letras.\""
+    },
+    {
+      "objetivo": "A letra dos sons PARADOS",
+      "folhas": [
+        6
+      ],
+      "pratica": "Análise linguística/semiótica (alfabetização)",
+      "objeto": "Construção do sistema alfabético e da ortografia",
+      "habilidade": "HABILIDADE: \"Identificar fonemas e sua representação por letras.\""
+    },
+    {
+      "objetivo": "Classificar e achar o intruso",
+      "folhas": [
+        7,
+        8
+      ],
+      "pratica": "Análise linguística/semiótica (alfabetização)",
+      "objeto": "Construção do sistema alfabético",
+      "habilidade": "HABILIDADE: \"Comparar palavras, identificando semelhanças e diferenças entre sons de sílabas iniciais, mediais e finais.\""
+    },
+    {
+      "objetivo": "Escrever a letra sozinha",
+      "folhas": [
+        9
+      ],
+      "pratica": "Análise linguística/semiótica (alfabetização)",
+      "objeto": "Construção do sistema alfabético e da ortografia",
+      "habilidade": "HABILIDADE: \"Identificar fonemas e sua representação por letras.\""
+    }
+  ]
+}
