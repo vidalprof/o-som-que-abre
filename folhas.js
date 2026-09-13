@@ -288,14 +288,27 @@ var LETRAOPS = {"abelha": ["A", "E", "G"], "bola": ["B", "O", "Z"], "casa": ["C"
       manda fazer de qualquer jeito: o fonema se percebe na comparação, não no ar.
    ============================================================ */
 
-function figComSom(w, cls){
+function figComSom(w, cls, id){
   var c = el("div", "figsil" + (cls ? " " + cls : ""));
   c.innerHTML = img(w, "figgrande");
   var lin = el("div", "chamlin");
-  lin.appendChild(el("b", "", esc(w)));
+  /* ⚠️ COM `id`, A PALAVRA ESCRITA É SEGREDO até a criança responder.
+     A folha 5 pergunta "este som tem uma letra, qual é ela?" e mostrava SAPO
+     escrito ao lado das opções S/P/T: quem já lê pegava a primeira letra do
+     impresso e acertava sem ouvir som nenhum — e a folha existe justamente para
+     medir se ela liga o SOM à letra. Mesma lição da MOLA na Roda.
+     ⚠️ SEM `id` a palavra aparece desde o começo, e isso é de propósito: na
+     folha 1 a criança só ESTICA o som (não há o que adivinhar), e ali o escrito
+     é apoio de leitura, não resposta entregue. */
+  lin.appendChild(id ? nomeSecreto(w, id) : el("b", "", esc(w)));
   lin.appendChild(botaoSom("Ouvir " + esc(w), function(){ falar("pal_" + w); }));
   c.appendChild(lin);
   return c;
+}
+function nomeSecreto(w, id){
+  var b = el("b", "segredo" + (ST.resp[id] ? " revelado" : ""), esc(w));
+  b.setAttribute("data-nome", id);
+  return b;
 }
 function letraDe(w){ return PAL[w] ? PAL[w][2] : "?"; }
 /* a letra grande com o alto-falante — e o alto-falante diz o NOME da letra,
@@ -320,7 +333,14 @@ function f1(d, pi){
     (function(w, i){
       var id = "m1_" + i, box = item(i + 1), l = letraDe(w);
       registra(id, pi, l);
-      box.appendChild(figComSom(w));
+      /* ⚠️ AQUI A PALAVRA ESCRITA É O ALVO, e por isso vai DECLARADA. Esta folha
+         não pergunta nada: a criança toca no botão e ouve o som do começo
+         esticado (SSSsapo). Não há opção para escolher, então não há resposta a
+         entregar — o escrito é apoio de leitura, que é o ponto da manipulação
+         livre antes da pergunta. Só a folha 5, que TEM opções, esconde. */
+      var cxf = figComSom(w);
+      cxf.setAttribute("data-alvo", "1");
+      box.appendChild(cxf);
       var b = el("button", "estica" + (ST.resp[id] ? " acesa" : ""),
                  '<span class="rep">' + esc(l) + esc(l) + esc(l) + "</span>" + esc(w));
       b.setAttribute("data-qa", "est-" + id);
@@ -450,7 +470,7 @@ function f5(d, pi){
   for(var i = 0; i < L.length; i++){
     (function(w, i){
       var id = "m5_" + i, box = item(i + 1), certa = letraDe(w);
-      box.appendChild(figComSom(w));
+      box.appendChild(figComSom(w, null, id));
       var ops = LETRAOPS[w].slice(0).sort().map(function(l){
         return {v: l, rot: '<span class="ltop">' + esc(l) + "</span>",
                 aria: "letra " + l, fala: "let_" + l};
@@ -473,7 +493,8 @@ function f6(d, pi){
   for(var i = 0; i < L.length; i++){
     (function(w, i){
       var id = "m6_" + i, box = item(i + 1), certa = letraDe(w);
-      box.appendChild(figComSom(w));
+      /* mesma razão da folha 5: aqui HÁ opções, então o escrito entrega */
+      box.appendChild(figComSom(w, null, id));
       var ops = LETRAOPS[w].slice(0).sort().map(function(l){
         return {v: l, rot: '<span class="ltop">' + esc(l) + "</span>",
                 aria: "letra " + l, fala: "let_" + l};

@@ -113,6 +113,10 @@ button{font-family:inherit;cursor:pointer}
 .chamrima .figgrande{display:block;width:auto;height:clamp(84px,21vw,128px);max-width:100%;
   margin:0 auto;object-fit:contain}
 .chamlin{display:flex;align-items:center;gap:8px;flex-wrap:wrap;justify-content:center}
+/* a palavra escrita só aparece no acerto — ver o comentário do `figComSom`.
+   `visibility` e não `display`: o espaço fica guardado e a folha não pula. */
+.segredo{visibility:hidden}
+.segredo.revelado{visibility:visible;-webkit-animation:aparece .35s;animation:aparece .35s}
 .chamlin b{font-size:clamp(15px,4vw,19px);color:var(--texto2);letter-spacing:.5px}
 
 /* as opções COM figura (folhas 2, 4 e 6) */
@@ -878,6 +882,28 @@ img{-webkit-user-drag:none;-khtml-user-drag:none;-moz-user-drag:none;user-drag:n
 
 <script>
 /* ---------- AS PALAVRAS DE CADA FOLHA (o gerar_falas.py lê este bloco) ---------- */
+/*GESTOS-INI*/
+/* ⚠️ O GESTO DE CADA FOLHA, DECLARADO À MÃO — uma palavra: o que a criança FAZ
+   com o dedo, não o que o código parece. Ele existe porque o portão 0b7
+   (`_qa/leque_folha.py`) tentou ADIVINHAR isto do código e errou feio: "Ligue
+   cada figura ao seu pedaço" saiu como *arrastar* e "Pinte só os balões" saiu
+   como *ligar*, e três cadernos foram reprovados por conta do erro do portão.
+   Gesto é decisão de quem monta, então quem monta escreve.
+   ⚠️ Folha nova = linha nova AQUI, no mesmo commit. Sem isso o portão diz
+      "NAO MEDI" — que não é "passou". */
+var GESTOS = {
+ "f1": "explorar",
+ "f2": "escolher",
+ "f3": "marcar varios",
+ "f4": "classificar",
+ "f5": "ligar",
+ "f6": "achar o par",
+ "f7": "achar o intruso",
+ "f8": "completar",
+ "f9": "escrever",
+ "f10": "mural"
+};
+/*GESTOS-FIM*/
 /*ITENS-INI*/
 var ITENS = {
  "p1": [
@@ -1977,6 +2003,9 @@ function registra(id, pag, certo){ RESP[id] = {certo: certo, pag: pag}; }
 function acertou(id, fala){
   if(ST.resp[id]) return;
   tentativa(id, true); ST.resp[id] = 1; salvar(); sCerto();
+  var segs = document.querySelectorAll('[data-nome="' + id + '"]'), sg;
+  for(sg = 0; sg < segs.length; sg++)
+    segs[sg].className = segs[sg].className.replace(/ ?revelado/, "") + " revelado";
   if(fala) falar(fala);
   setTimeout(function(){ confereFolha(RESP[id].pag); }, 850);
 }
