@@ -85,29 +85,23 @@ function monta(){
    lado a lado, com o sinal de igual entre eles. O movimento conta a atividade:
    cada letra entra depois da outra, como num desfile. */
 function f0(d){
-  var c = el("div", "capa"), nome = "O SOM QUE ABRE", k, letras = "";
-  for(k = 0; k < nome.length; k++){
-    var ch = nome.charAt(k);
-    letras += ch === " " ? '<span class="esp"></span>'
-      : '<span class="lt" style="animation-delay:' + (0.05 * k).toFixed(2) + 's">' + ch + '</span>';
-  }
-  /* ⭐ A CENA CONTA A ATIVIDADE: quatro palavras que começam com o mesmo SOM
-     entram uma depois da outra, com a primeira letra acesa. E são todas de som
-     CONTÍNUO, que é por onde o caderno começa — /m/ dá para esticar.
-     ⚠️ Capa clonada = trocar o NOME e a CENA, sempre: a do degrau anterior
-     passou quase intacta e só o navegador viu. */
-  var cena = "";
-  [["M", "ACACO"], ["M", "ALA"], ["M", "AÇÃ"], ["M", "EL"]].forEach(function(par, i){
-    cena += '<span class="palcapa p' + i + '"><b>' + par[0] + "</b>" + par[1] + "</span>";
+  /* CAPA COM IDENTIDADE PRÓPRIA — gerada por _padrao/identidade_capa.py (editar lá).
+     Cena: o som que abre: o foco de luz acende cada palavra que começa igual. O título entra letra a letra (cresce), palavra por palavra
+     (nowrap, para não quebrar no meio); as figuras são as do próprio caderno. */
+  var c = el("div", "capa"), nome = "O SOM QUE ABRE", k, letras = "", pos = 0;
+  var V = typeof VIMG !== "undefined" ? VIMG : 2;
+  nome.split(" ").forEach(function(pal, w){
+    var s = "";
+    for(k = 0; k < pal.length; k++, pos++){
+      s += '<span class="lt" style="animation-delay:' + (0.05 * pos).toFixed(2) + 's">' + pal.charAt(k) + '</span>';
+    }
+    pos++;
+    letras += (w ? '<span class="cpesp"></span>' : '') + '<span class="cptpal">' + s + '</span>';
   });
   c.innerHTML =
-    '<div class="ceu"><i class="nv n1"></i><i class="nv n2"></i><i class="nv n3"></i></div>' +
-    '<h1 class="titu">' + letras + '</h1>' +
+    '<div class="ceu"></div>' + '<h1 class="titu">' + letras + '</h1>' +
     '<div class="sub">Alfabetização &middot; 1º ano &middot; dez folhas do som e da letra</div>' +
-    '<div class="esteira">' +
-      '<div class="cena cenaped">' + cena + "</div>" +
-      '<div class="cinta"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>' +
-    "</div>" +
+    '<div class="cena"><i class="foco"></i>' + '<div class="it" style="animation-delay:0.00s">' + '<img class="capfig" draggable="false" src="img/so_bola.png?v=' + V + '" alt="">' + '<span class="rt">B</span>' + '</div>' + '<div class="it" style="animation-delay:0.35s">' + '<img class="capfig" draggable="false" src="img/so_boneca.png?v=' + V + '" alt="">' + '<span class="rt">B</span>' + '</div>' + '<div class="it" style="animation-delay:0.70s">' + '<img class="capfig" draggable="false" src="img/so_bota.png?v=' + V + '" alt="">' + '<span class="rt">B</span>' + '</div>' + '<div class="it" style="animation-delay:1.05s">' + '<img class="capfig" draggable="false" src="img/so_banana.png?v=' + V + '" alt="">' + '<span class="rt">B</span>' + '</div>' + '</div><div class="prat"></div>' +
     '<div class="chamada">Escreva o seu nome ali embaixo e toque em <b>Começar</b>.</div>';
   d.appendChild(c);
 }
